@@ -1,3 +1,79 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\000033}}
+body {
+  background-color: white;
+}
 
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\000036}}
+.header-top {
+  margin: 78px 68px 88px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\000039}}
+.row {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000314}}
+.photo100 {
+  width: 100%;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000317}}
+.logo {
+  font-family: "Inconsolata", monospace;
+  text-transform: uppercase;
+  font-size: 30px;
+  letter-spacing: 0.15em;
+  text-decoration: none;
+  color: black;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000325}}
+.menu {
+  margin: 0;
+  padding: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  list-style: none;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000333}}
+.menu a {
+  color: #626262;
+  text-decoration: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000336}}
+.menu a:hover {
+  text-decoration: underline;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000339}}
+.top-header {
+  width: 574px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/student\.LAN\/Documents\/Exam2019\/sass-project-1\/style\.sass}line{font-family:\0000342}}
+.main-wrap {
+  width: 900px;
+  margin: 96px auto 1370px;
+}
 
 /*# sourceMappingURL=style.css.map */
